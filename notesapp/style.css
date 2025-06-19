@@ -1,0 +1,41 @@
+body{
+    margin: auto;
+    background-color: aquamarine;
+
+}
+.info-text{
+
+   text-align: center;
+}
+.heading{
+    color: black;
+    text-align: center;
+
+
+}
+.app{
+    display: grid;
+    
+    gap: 30px;
+    padding: 40px;
+    justify-content: center;
+}
+.note{
+    padding: 15px;
+    border-radius:10px ;
+    border: none;
+    outline-color: black;
+    outline:none;
+    height: 150px; ;
+    box-sizing: border-box;
+    height: 100px;
+    
+
+
+
+}
+
+
+
+
+
